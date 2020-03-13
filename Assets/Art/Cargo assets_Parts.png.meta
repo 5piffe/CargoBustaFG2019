@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 15e8aa4ca140bd24d834fad82c7fec4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -446290412461950057
+    second: Cargo_regularPart01
+  - first:
+      213: 2542413943272343404
+    second: Cargo_aquaPart01
+  - first:
+      213: -5120207386455850368
+    second: Cargo_mechPart01
+  - first:
+      213: 5981867139592263635
+    second: Cargo_metalPart01
+  - first:
+      213: -5857525573170834851
+    second: Cargo_plasmaPart01
+  - first:
+      213: 2307390381191784087
+    second: Cargo_wastePart01
+  - first:
+      213: 4587477005859487200
+    second: Cargo_aquaPart02
+  - first:
+      213: -3613658866015969135
+    second: Cargo_aquaPart03
+  - first:
+      213: -8578259514181361004
+    second: Cargo_aquaPart04
+  - first:
+      213: -6264165862369548196
+    second: Cargo_mechPart02
+  - first:
+      213: -6907391478317194353
+    second: Cargo_mechPart03
+  - first:
+      213: -7974818126179358478
+    second: Cargo_mechPart04
+  - first:
+      213: -6987982517932443323
+    second: Cargo_regularPart02
+  - first:
+      213: 2821187431269133393
+    second: Cargo_regularPart03
+  - first:
+      213: 6121855470791704615
+    second: Cargo_regularPart04
+  - first:
+      213: 4321466444317578211
+    second: Cargo_metalPart02
+  - first:
+      213: 2994989665603935753
+    second: Cargo_metalPart03
+  - first:
+      213: -3461851139740289876
+    second: Cargo_metalPart04
+  - first:
+      213: -972946137586368904
+    second: Cargo_plasmaPart02
+  - first:
+      213: -3686042551397949353
+    second: Cargo_plasmaPart03
+  - first:
+      213: -6176649479658791081
+    second: Cargo_plasmaPart04
+  - first:
+      213: -8337818811976798342
+    second: Cargo_wastePart02
+  - first:
+      213: -8854058999407584060
+    second: Cargo_wastePart03
+  - first:
+      213: 1276957416393116230
+    second: Cargo_wastePart04
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 96
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cargo_regularPart01
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 285
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad3e727e9ed1ab45a5acf88e19196ae
+      internalID: -446290412461950057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_aquaPart01
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 288
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391d11d5e19bf954698a58d0ebb8c06b
+      internalID: 2542413943272343404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_mechPart01
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 287
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81648b7b289cb9b468957938a649ade0
+      internalID: -5120207386455850368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_metalPart01
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 286
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fc621ba350264488443f531d8e6e2f
+      internalID: 5981867139592263635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_plasmaPart01
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 285
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70986ad149715eb49b27720d04eb3a4c
+      internalID: -5857525573170834851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_wastePart01
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 222
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92989a2d74860e34ba7409e8443d800e
+      internalID: 2307390381191784087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_aquaPart02
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1def4e731a696124da111d2a9f076855
+      internalID: 4587477005859487200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_aquaPart03
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 267
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a536594728ade044eb72db551cf02efc
+      internalID: -3613658866015969135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_aquaPart04
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 267
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3136789059c39e643bbc2bffc7e4bb5d
+      internalID: -8578259514181361004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_mechPart02
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 287
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b03f5a63c3b3184d9b9e2802cdc16e2
+      internalID: -6264165862369548196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_mechPart03
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 266
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6f8e6e2b7bb144c806b3bfd2e806aa
+      internalID: -6907391478317194353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_mechPart04
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 266
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe5caaf1c6473c459e5e03d5c67913f
+      internalID: -7974818126179358478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_regularPart02
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 285
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c07400f868e05244bbb44816d95b913
+      internalID: -6987982517932443323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_regularPart03
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 265
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034703895092d574db6df484c7dcd238
+      internalID: 2821187431269133393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_regularPart04
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 265
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7cf9db9c2a667449dac3117e02ab15
+      internalID: 6121855470791704615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_metalPart02
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 286
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05512405c3de23e43b204a0ce48f6e73
+      internalID: 4321466444317578211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_metalPart03
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 266
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad93c491575aa643b7178bf93462560
+      internalID: 2994989665603935753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_metalPart04
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 266
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08cca77661cadd458da07da2940455a
+      internalID: -3461851139740289876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_plasmaPart02
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 285
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87f60367e469cf48b871300c9164bb3
+      internalID: -972946137586368904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_plasmaPart03
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 265
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12752afa17ad7f4478e7eea31a22910d
+      internalID: -3686042551397949353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_plasmaPart04
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 265
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470f27e18587063429b09efb5552e602
+      internalID: -6176649479658791081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_wastePart02
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 222
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db311a3fd340f5e4181fae26e0319312
+      internalID: -8337818811976798342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_wastePart03
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 203
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af902d0962a3d4e4687f8648a3aef514
+      internalID: -8854058999407584060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo_wastePart04
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 203
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0bfd623eda0e34c88f982b7029a9d2
+      internalID: 1276957416393116230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: c12b3f81bd50fd94bb4e05ab289ef3f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -654883776268381167
+    second: Asteroid assets_0
+  - first:
+      213: 5273821694030957296
+    second: Asteroid assets_1
+  - first:
+      213: 1260422861124357404
+    second: Asteroid assets_4
+  - first:
+      213: 6711660046506500862
+    second: Asteroid assets_5
+  - first:
+      213: -2373825725930953149
+    second: Asteroid assets_6
+  - first:
+      213: 2702511295974887904
+    second: Asteroid assets_7
+  - first:
+      213: 2804122769023393090
+    second: Asteroid assets_8
+  - first:
+      213: 7604164096016652264
+    second: Asteroid assets_9
+  - first:
+      213: 8788531633361801924
+    second: Asteroid assets_10
+  - first:
+      213: 8685083665126512119
+    second: Asteroid assets_11
+  - first:
+      213: -1364280974031872585
+    second: Asteroid assets_3
+  - first:
+      213: 6262310432823728472
+    second: Asteroid assets_2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asteroid assets_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1524
+        width: 535
+        height: 591
+      alignment: 9
+      pivot: {x: 0.4795558, y: 0.48457742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c413d45d50bfc04a9045637ad657045
+      internalID: -654883776268381167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid assets_1
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1541
+        width: 405
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c47a6aa610d04448078a6963f141b9
+      internalID: 5273821694030957296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid assets_4
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1020
+        width: 538
+        height: 466
+      alignment: 9
+      pivot: {x: 0.48983458, y: 0.5117355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5db92e15d81be34dbd3cc84ea71e27c
+      internalID: 1260422861124357404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid assets_5
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 576
+        width: 528
+        height: 897
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe747ac3df4ed743b0e7e173f83fe37
+      internalID: 6711660046506500862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid assets_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 737
+        width: 620
+        height: 573
+      alignment: 9
+      pivot: {x: 0.46116707, y: 0.54201794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2000d5f7f381db4685aacd90df9cf85
+      internalID: -2373825725930953149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid assets_7
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 558
+        width: 421
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa8d08089e382945896e009ae780673
+      internalID: 2702511295974887904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid assets_8
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 50
+        width: 458
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7212ffd8daecb78468cf6bd967f9fe26
+      internalID: 2804122769023393090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid assets_9
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 21
+        width: 410
+        height: 466
+      alignment: 9
+      pivot: {x: 0.504446, y: 0.49608824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f773453c1a70f24db79fe0df47c2a57
+      internalID: 7604164096016652264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid assets_10
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 62
+        width: 343
+        height: 483
+      alignment: 9
+      pivot: {x: 0.52746403, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc53b83aa6d3754da7f30375c4778f5
+      internalID: 8788531633361801924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid assets_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 316
+        width: 323
+        height: 230
+      alignment: 9
+      pivot: {x: 0.54007924, y: 0.4707318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabff757f01f02a4b81b5f635b36cda3
+      internalID: 8685083665126512119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid assets_3
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1579
+        width: 526
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bde2af6a02e404989573d69fbf6388
+      internalID: -1364280974031872585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asteroid assets_2
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1606
+        width: 392
+        height: 410
+      alignment: 9
+      pivot: {x: 0.3511885, y: 0.54890794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84446a18d3926d418b170dfc6bd81fd
+      internalID: 6262310432823728472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
